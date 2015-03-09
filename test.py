@@ -1,1 +1,1 @@
-print "This is test statement"
+print "This is test print statement"
